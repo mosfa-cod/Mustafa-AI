@@ -1,0 +1,5 @@
+{
+  "name": "Mustafa AI - Dahroug",
+  "description": "A smart AI assistant for Mustafa with vision, image generation, and voice capabilities.",
+  "requestFramePermissions": ["microphone"]
+}
